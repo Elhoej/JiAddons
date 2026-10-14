@@ -1,0 +1,15 @@
+## Interface: 16001
+## Title: __ADDON__
+## Notes: __ADDON__ for WoW Forever.
+## Author: Ji
+## Version: 0.1.0
+## SavedVariables: __ADDON__DB
+## IconTexture: 134400
+
+Shared\Util.lua
+Shared\Compat.lua
+Shared\Text.lua
+Shared\Events.lua
+Shared\Widgets.lua
+
+Core.lua

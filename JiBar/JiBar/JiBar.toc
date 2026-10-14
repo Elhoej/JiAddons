@@ -1,0 +1,32 @@
+## Interface: 16001
+## Title: JiBar
+## Notes: FuBar-style information bars with FuBar's plugins: micro menu, durability, honour, clock, quests, money, transporter, experience and performance.
+## Author: Ji
+## Version: 0.1.3
+## SavedVariables: JiBarDB
+## IconTexture: 134400
+## OptionalDeps: LibSharedMedia-3.0
+
+Shared\Util.lua
+Shared\Compat.lua
+Shared\Text.lua
+Shared\Events.lua
+Shared\Widgets.lua
+
+Core.lua
+Tip.lua
+Menu.lua
+Plugin.lua
+Bar.lua
+Options.lua
+
+Plugins\MicroMenu.lua
+Plugins\CustomMenu.lua
+Plugins\Durability.lua
+Plugins\Honor.lua
+Plugins\Clock.lua
+Plugins\Quests.lua
+Plugins\Money.lua
+Plugins\Transporter.lua
+Plugins\Experience.lua
+Plugins\Performance.lua

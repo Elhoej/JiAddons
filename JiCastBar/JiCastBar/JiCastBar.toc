@@ -1,0 +1,19 @@
+## Interface: 16001
+## Title: JiCastBar
+## Notes: Elva's cast bars for the player and target, for WoW Forever.
+## Author: Ji
+## Version: 0.1.1
+## SavedVariables: JiCastBarDB
+## IconTexture: 134400
+
+Shared\Util.lua
+Shared\Compat.lua
+Shared\Text.lua
+Shared\Events.lua
+Shared\Widgets.lua
+
+Styles.lua
+Cast.lua
+Bar.lua
+Options.lua
+Core.lua

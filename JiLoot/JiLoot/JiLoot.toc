@@ -1,0 +1,20 @@
+## Interface: 16001
+## Title: JiLoot |cff33ff99Loot Frame|r
+## Notes: Standalone loot frame for WoW Forever. Shows looted items, money, currencies, reputation and honor with prices.
+## Author: JiLoot
+## Version: 1.1.0
+## SavedVariables: JiLootDB
+## IconTexture: 133784
+## Category: Inventory
+
+Shared\Util.lua
+Shared\Compat.lua
+Shared\Text.lua
+Shared\Events.lua
+Shared\Widgets.lua
+
+Core.lua
+Sources.lua
+Display.lua
+LootWindow.lua
+Options.lua

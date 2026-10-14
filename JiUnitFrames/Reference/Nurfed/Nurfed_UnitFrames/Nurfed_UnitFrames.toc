@@ -1,0 +1,18 @@
+## Interface: 11200
+## Title: Nurfed UnitFrames
+## Notes: Nurfed's configurable UnitFrames Replacement.
+## Author: Tivoli, http://www.nurfed.com
+## SavedVariablesPerCharacter: NURFED_UNITFRAMES_SAVED
+## RequiredDeps: Nurfed_Utility
+## Version: 09.15.2006 - Baroque 2018 edit
+Layout.lua
+Layout_2.lua
+Layout_3.lua
+Layout_4.lua
+Layout_5.lua
+Layout_6.lua
+Layout_7.lua
+Layout_8.lua
+Layout_9.lua
+Layout_10.lua
+Nurfed_UnitFrames.lua

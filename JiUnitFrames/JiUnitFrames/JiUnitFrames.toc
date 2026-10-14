@@ -1,0 +1,22 @@
+## Interface: 16001
+## Title: JiUnitFrames |cff33ff99Unit Frames|r
+## Notes: Nurfed-style player, target, target of target, pet and party frames for WoW Forever.
+## Author: Ji
+## Version: 0.4.0
+## SavedVariables: JiUnitFramesDB
+## IconTexture: 136122
+## Category: Unit Frames
+
+Shared\Util.lua
+Shared\Compat.lua
+Shared\Text.lua
+Shared\Events.lua
+Shared\Widgets.lua
+
+Core.lua
+Unit.lua
+Elements.lua
+ManaSpark.lua
+Frames.lua
+Blizzard.lua
+Options.lua

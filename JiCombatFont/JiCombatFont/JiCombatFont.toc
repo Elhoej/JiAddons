@@ -1,0 +1,17 @@
+## Interface: 16001
+## Title: JiCombatFont
+## Notes: Choose the fonts and letter spacing of outgoing and incoming combat text.
+## Author: Ji
+## Version: 0.5.0
+## SavedVariables: JiCombatFontDB
+## IconTexture: 134400
+
+Shared\Util.lua
+Shared\Compat.lua
+Shared\Text.lua
+Shared\Events.lua
+Shared\Widgets.lua
+
+IncomingFonts.xml
+Core.lua
+Options.lua

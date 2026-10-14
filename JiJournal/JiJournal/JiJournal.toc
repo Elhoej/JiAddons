@@ -1,0 +1,18 @@
+## Interface: 16001
+## Title: JiJournal
+## Notes: A movable, zoomable world map (Leatrix Maps style) and a separate WideQuestLog-style quest log.
+## Author: Ji
+## Version: 0.1.2
+## SavedVariables: JiJournalDB
+## IconTexture: Interface\Icons\INV_Misc_Book_09
+
+Shared\Util.lua
+Shared\Compat.lua
+Shared\Text.lua
+Shared\Events.lua
+Shared\Widgets.lua
+
+Core.lua
+Map.lua
+QuestLog.lua
+Options.lua
